@@ -16,6 +16,14 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2/logo.png"
     },
     {
+      "name": "DokiDkokiAzuki",
+      "address": "0x7cdc0421469398e0f3aa8890693d86c840ac8931",
+      "symbol": "AZUKI",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://media.discordapp.net/attachments/815945115545108490/825429779578486804/azuki_logo.png"
+    },
+    {
       "name": "Aave",
       "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
       "symbol": "AAVE",
